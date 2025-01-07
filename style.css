@@ -296,8 +296,8 @@ footer{
   align-items: center;
   justify-content: center;
   display: flex;
-  /* position: sticky;
-  bottom: 0; */
+  position: sticky;
+  bottom: 0;
 }
 @media (min-width: 450px) {
   footer {
